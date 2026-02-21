@@ -1,0 +1,97 @@
+{
+    "title": "corporate-language-decoder",
+    "marketing_package": {
+        "reel_caption": "Corporate language is a different vibe altogether. Matlab kuch aur hi hota hai bhai! Watch till the end for the ultimate scam.",
+        "hashtags": "#CorporateHumor #OfficeKalesh #TechLife #ReelsIndia #CorporateMazdoor #OfficeLife #WorkFromHome #ViralReels #DesiCorporate #JobLife"
+    },
+    "scenes": [{
+            "visual_prompt": "3D render, Pixar-style, cinematic lighting, 9:16 aspect ratio, Indian Sameer, a 30-year-old product manager with thick-rimmed glasses and a receding hairline wearing a light blue formal shirt, looking directly into the camera with a fake smile in a modern Indian tech park office.",
+            "hindi_speech": "Kya aapko lagta hai ki aapka boss sach bol raha hai? Arre bhai corporate language ka asli matlab samjho na sir!",
+            "caption": "Corporate language ka ASLI matlab",
+            "comedy_meta": {
+                "punchline_beat": 0.2,
+                "sfx": "record_scratch",
+                "laugh_intensity": "",
+                "zoom_style": "snap",
+                "highlight_word": "ASLI"
+            }
+        }, {
+            "visual_prompt": "3D render, Pixar-style, cinematic lighting, 9:16 aspect ratio, Indian Sameer, a 30-year-old product manager with thick-rimmed glasses and a receding hairline wearing a light blue formal shirt, pointing to a floating text bubble that says WE ARE A FAMILY in a modern Indian tech park office.",
+            "hindi_speech": "Jab boss bole We Are A Family, toh uska matlab hai... Beta, ab tujhse overtime ke paise nahi milenge.",
+            "caption": "We Are A Family = OVERTIME",
+            "comedy_meta": {
+                "punchline_beat": 0.3,
+                "sfx": "game_over",
+                "laugh_intensity": "chuckle",
+                "zoom_style": "snap",
+                "highlight_word": "OVERTIME"
+            }
+        }, {
+            "visual_prompt": "3D render, Pixar-style, cinematic lighting, 9:16 aspect ratio, Indian Sameer, a 30-year-old product manager with thick-rimmed glasses and a receding hairline wearing a light blue formal shirt, looking confused at his laptop screen in a modern Indian tech park office.",
+            "hindi_speech": "Aur jab mail aaye As Discussed, toh samajh lo scene tight hai. Iska matlab hai ki maine pehle bola tha aur tune dhyan nahi diya!",
+            "caption": "As Discussed = SCENE TIGHT",
+            "comedy_meta": {
+                "punchline_beat": 0.2,
+                "sfx": "keyboard_typing",
+                "laugh_intensity": "chuckle",
+                "zoom_style": "snap",
+                "highlight_word": "TIGHT"
+            }
+        }, {
+            "visual_prompt": "3D render, Pixar-style, cinematic lighting, 9:16 aspect ratio, Indian Sameer, a 30-year-old product manager with thick-rimmed glasses and a receding hairline wearing a light blue formal shirt, rubbing his temples in frustration in a modern Indian tech park office.",
+            "hindi_speech": "Let us take this offline ka matlab hai... Dimag kharab mat kar, akele mein teri class leta hoon!",
+            "caption": "Take This Offline = CLASS LENA",
+            "comedy_meta": {
+                "punchline_beat": 0.4,
+                "sfx": "cricket_chirp",
+                "laugh_intensity": "burst",
+                "zoom_style": "snap",
+                "highlight_word": "CLASS"
+            }
+        }, {
+            "visual_prompt": "3D render, Pixar-style, cinematic lighting, 9:16 aspect ratio, Indian Sameer, a 30-year-old product manager with thick-rimmed glasses and a receding hairline wearing a light blue formal shirt, holding a coffee mug that says BEST BOSS while looking dead inside in a modern Indian tech park office.",
+            "hindi_speech": "Quick Check-in matlab... Kasam se, tu kaam kar raha hai ya bas baitha hai?",
+            "caption": "Quick Check-in = MONITORING",
+            "comedy_meta": {
+                "punchline_beat": 0.2,
+                "sfx": "keyboard_typing",
+                "laugh_intensity": "chuckle",
+                "zoom_style": "snap",
+                "highlight_word": "MONITORING"
+            }
+        }, {
+            "visual_prompt": "3D render, Pixar-style, cinematic lighting, 9:16 aspect ratio, Indian Sameer, a 30-year-old product manager with thick-rimmed glasses and a receding hairline wearing a light blue formal shirt, looking at a calendar filled with red marks in a modern Indian tech park office.",
+            "hindi_speech": "High Visibility project matlab... Weekend gaya tel lene, ab gulu-gulu bhul jao!",
+            "caption": "High Visibility = NO WEEKEND",
+            "comedy_meta": {
+                "punchline_beat": 0.3,
+                "sfx": "game_over",
+                "laugh_intensity": "wheeze",
+                "zoom_style": "snap",
+                "highlight_word": "WEEKEND"
+            }
+        }, {
+            "visual_prompt": "3D render, Pixar-style, cinematic lighting, 9:16 aspect ratio, Indian Sameer, a 30-year-old product manager with thick-rimmed glasses and a receding hairline wearing a light blue formal shirt, lying face down on his desk in a modern Indian tech park office.",
+            "hindi_speech": "Aur sabse bada scam... You have Great Potential. Matlab, kaam double hoga par appraisal zero!",
+            "caption": "Great Potential = ZERO APPRAISAL",
+            "comedy_meta": {
+                "punchline_beat": 0.4,
+                "sfx": "record_scratch",
+                "laugh_intensity": "burst",
+                "zoom_style": "snap",
+                "highlight_word": "SCAM"
+            }
+        }, {
+            "visual_prompt": "3D render, Pixar-style, cinematic lighting, 9:16 aspect ratio, Indian Sameer, a 30-year-old product manager with thick-rimmed glasses and a receding hairline wearing a light blue formal shirt, slowly fading away as his laptop glows bright red in a modern Indian tech park office.",
+            "hindi_speech": "Corporate life mein logic mat dhoondho bhai, bas resignation draft karke rakho!",
+            "caption": "Resignation hi EKMAATRA hal hai",
+            "comedy_meta": {
+                "punchline_beat": 0.2,
+                "sfx": "game_over",
+                "laugh_intensity": "wheeze",
+                "zoom_style": "snap",
+                "highlight_word": "RESIGNATION"
+            }
+        }
+    ]
+}
