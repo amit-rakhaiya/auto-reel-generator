@@ -36,7 +36,7 @@ def clean_audio_files():
                 if os.path.exists(temp_filepath):
                     os.remove(temp_filepath)
 
-    print("\n🎉 All SFX files are clean! You can now run main.py safely.")
+    print("\n🎉 All SFX files are clean! You can now run countdown-reel.py safely.")
 
 if __name__ == "__main__":
     clean_audio_files()

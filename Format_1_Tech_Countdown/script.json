@@ -1,0 +1,81 @@
+{
+    "title": "ai-tools-replacing-marketing-agencies",
+    "marketing_package": {
+        "reel_caption": "Marketing agencies are becoming obsolete. These 5 AI tools do the work of a 50-person team for free. Links in description.",
+        "hashtags": "#AI #MarketingTips #Automation #TechTrends #Entrepreneur #FutureOfWork #DigitalMarketing #AItools"
+    },
+    "scenes": [
+        {
+            "visual_prompt": "Cinematic, hyper-realistic shot of a dimly lit, empty modern corporate marketing office with dusty desks and abandoned coffee mugs, 9:16 aspect ratio.",
+            "hindi_speech": "Marketing agencies ka zamana khatam ho raha hai. Yeh panch A I tools akela poori agency ka kaam kar sakte hain.",
+            "caption": "Agencies are DYING?",
+            "tool_logo": "",
+            "tech_meta": {
+                "pause_after": 0.2,
+                "sfx": "impact",
+                "zoom_style": "smooth_in",
+                "highlight_word": "DYING"
+            }
+        },
+        {
+            "visual_prompt": "Futuristic digital interface showing hundreds of high-converting ad banners being generated instantly, cinematic lighting.",
+            "hindi_speech": "Fact number Five. Ad Creative A I aapke liye high-converting ads aur social media creatives seconds mein generate karta hai.",
+            "caption": "Instant Ad Creatives!",
+            "tool_logo": "adcreative.ai",
+            "tech_meta": {
+                "pause_after": 0.3,
+                "sfx": "digital_beep",
+                "zoom_style": "pan_right",
+                "highlight_word": "Instant"
+            }
+        },
+        {
+            "visual_prompt": "Close-up of a sleek robotic hand typing rapidly on a glowing glass keyboard, holographic text floating in the air.",
+            "hindi_speech": "Fact number Four. Jasper aapke brands ke liye professional copywriting aur poori marketing strategy khud likh leta hai.",
+            "caption": "Copywriting on AUTOPILOT",
+            "tool_logo": "jasper.ai",
+            "tech_meta": {
+                "pause_after": 0.2,
+                "sfx": "whoosh",
+                "zoom_style": "smooth_in",
+                "highlight_word": "AUTOPILOT"
+            }
+        },
+        {
+            "visual_prompt": "A digital wireframe of a website transforming into a colorful, fully functional landing page in a burst of light.",
+            "hindi_speech": "Fact number Three. Ten Web ek aisa tool hai jo kisi bhi website ko A I ki madad se kuch hi der mein rebuild kar deta hai.",
+            "caption": "Websites in MINUTES",
+            "tool_logo": "10web.io",
+            "tech_meta": {
+                "pause_after": 0.3,
+                "sfx": "glitch",
+                "zoom_style": "pan_right",
+                "highlight_word": "MINUTES"
+            }
+        },
+        {
+            "visual_prompt": "A vibrant graphic design canvas where elements, colors, and fonts shift and align themselves automatically.",
+            "hindi_speech": "Fact number Two. Canva A I ab aapke designs aur brand assets ko automatically create aur resize kar deta hai.",
+            "caption": "Design made EASY",
+            "tool_logo": "canva.com",
+            "tech_meta": {
+                "pause_after": 0.2,
+                "sfx": "digital_beep",
+                "zoom_style": "smooth_in",
+                "highlight_word": "EASY"
+            }
+        },
+        {
+            "visual_prompt": "A futuristic video editing timeline where video clips and text animations snap into place on a vertical screen.",
+            "hindi_speech": "Fact number One. Type Frames aapke simple text prompts ko viral video ads mein badal deta hai. Check the reel description for reference links.",
+            "caption": "Text to VIRAL Video",
+            "tool_logo": "typeframes.com",
+            "tech_meta": {
+                "pause_after": 0.1,
+                "sfx": "whoosh",
+                "zoom_style": "pan_right",
+                "highlight_word": "VIRAL"
+            }
+        }
+    ]
+}

@@ -1,97 +1,81 @@
 {
-    "title": "corporate-language-decoder",
-    "marketing_package": {
-        "reel_caption": "Corporate language is a different vibe altogether. Matlab kuch aur hi hota hai bhai! Watch till the end for the ultimate scam.",
-        "hashtags": "#CorporateHumor #OfficeKalesh #TechLife #ReelsIndia #CorporateMazdoor #OfficeLife #WorkFromHome #ViralReels #DesiCorporate #JobLife"
+  "title": "ai-creativity-superpowers-2026",
+  "marketing_package": {
+    "reel_caption": "AI isn't replacing creators; it's giving them SUPERPOWERS! Check out these 5 tools that will level up your game. Links in description!",
+    "hashtags": "#ArtificialIntelligence #TechNews #CreativeTools #FutureOfWork #AIArt #Innovation #ContentCreator #Success"
+  },
+  "scenes": [
+    {
+      "visual_prompt": "Cinematic, hyper-realistic, 9:16 aspect ratio, a modern, bright, sunlit creative studio with a designer smiling while looking at a futuristic glowing holographic interface, professional and inspiring atmosphere.",
+      "hindi_speech": "AI aapka kaam cheen-ne nahi, balki aapko ek super creator banane aaya hai. Yeh tools aapki productivity badha denge.",
+      "caption": "Get AI SUPERPOWERS!",
+      "tool_logo": "",
+      "tech_meta": {
+        "pause_after": 0.2,
+        "sfx": "whoosh",
+        "zoom_style": "smooth_in",
+        "highlight_word": "SUPERPOWERS"
+      }
     },
-    "scenes": [{
-            "visual_prompt": "3D render, Pixar-style, cinematic lighting, 9:16 aspect ratio, Indian Sameer, a 30-year-old product manager with thick-rimmed glasses and a receding hairline wearing a light blue formal shirt, looking directly into the camera with a fake smile in a modern Indian tech park office.",
-            "hindi_speech": "Kya aapko lagta hai ki aapka boss sach bol raha hai? Arre bhai corporate language ka asli matlab samjho na sir!",
-            "caption": "Corporate language ka ASLI matlab",
-            "comedy_meta": {
-                "punchline_beat": 0.2,
-                "sfx": "record_scratch",
-                "laugh_intensity": "",
-                "zoom_style": "snap",
-                "highlight_word": "ASLI"
-            }
-        }, {
-            "visual_prompt": "3D render, Pixar-style, cinematic lighting, 9:16 aspect ratio, Indian Sameer, a 30-year-old product manager with thick-rimmed glasses and a receding hairline wearing a light blue formal shirt, pointing to a floating text bubble that says WE ARE A FAMILY in a modern Indian tech park office.",
-            "hindi_speech": "Jab boss bole We Are A Family, toh uska matlab hai... Beta, ab tujhse overtime ke paise nahi milenge.",
-            "caption": "We Are A Family = OVERTIME",
-            "comedy_meta": {
-                "punchline_beat": 0.3,
-                "sfx": "game_over",
-                "laugh_intensity": "chuckle",
-                "zoom_style": "snap",
-                "highlight_word": "OVERTIME"
-            }
-        }, {
-            "visual_prompt": "3D render, Pixar-style, cinematic lighting, 9:16 aspect ratio, Indian Sameer, a 30-year-old product manager with thick-rimmed glasses and a receding hairline wearing a light blue formal shirt, looking confused at his laptop screen in a modern Indian tech park office.",
-            "hindi_speech": "Aur jab mail aaye As Discussed, toh samajh lo scene tight hai. Iska matlab hai ki maine pehle bola tha aur tune dhyan nahi diya!",
-            "caption": "As Discussed = SCENE TIGHT",
-            "comedy_meta": {
-                "punchline_beat": 0.2,
-                "sfx": "keyboard_typing",
-                "laugh_intensity": "chuckle",
-                "zoom_style": "snap",
-                "highlight_word": "TIGHT"
-            }
-        }, {
-            "visual_prompt": "3D render, Pixar-style, cinematic lighting, 9:16 aspect ratio, Indian Sameer, a 30-year-old product manager with thick-rimmed glasses and a receding hairline wearing a light blue formal shirt, rubbing his temples in frustration in a modern Indian tech park office.",
-            "hindi_speech": "Let us take this offline ka matlab hai... Dimag kharab mat kar, akele mein teri class leta hoon!",
-            "caption": "Take This Offline = CLASS LENA",
-            "comedy_meta": {
-                "punchline_beat": 0.4,
-                "sfx": "cricket_chirp",
-                "laugh_intensity": "burst",
-                "zoom_style": "snap",
-                "highlight_word": "CLASS"
-            }
-        }, {
-            "visual_prompt": "3D render, Pixar-style, cinematic lighting, 9:16 aspect ratio, Indian Sameer, a 30-year-old product manager with thick-rimmed glasses and a receding hairline wearing a light blue formal shirt, holding a coffee mug that says BEST BOSS while looking dead inside in a modern Indian tech park office.",
-            "hindi_speech": "Quick Check-in matlab... Kasam se, tu kaam kar raha hai ya bas baitha hai?",
-            "caption": "Quick Check-in = MONITORING",
-            "comedy_meta": {
-                "punchline_beat": 0.2,
-                "sfx": "keyboard_typing",
-                "laugh_intensity": "chuckle",
-                "zoom_style": "snap",
-                "highlight_word": "MONITORING"
-            }
-        }, {
-            "visual_prompt": "3D render, Pixar-style, cinematic lighting, 9:16 aspect ratio, Indian Sameer, a 30-year-old product manager with thick-rimmed glasses and a receding hairline wearing a light blue formal shirt, looking at a calendar filled with red marks in a modern Indian tech park office.",
-            "hindi_speech": "High Visibility project matlab... Weekend gaya tel lene, ab gulu-gulu bhul jao!",
-            "caption": "High Visibility = NO WEEKEND",
-            "comedy_meta": {
-                "punchline_beat": 0.3,
-                "sfx": "game_over",
-                "laugh_intensity": "wheeze",
-                "zoom_style": "snap",
-                "highlight_word": "WEEKEND"
-            }
-        }, {
-            "visual_prompt": "3D render, Pixar-style, cinematic lighting, 9:16 aspect ratio, Indian Sameer, a 30-year-old product manager with thick-rimmed glasses and a receding hairline wearing a light blue formal shirt, lying face down on his desk in a modern Indian tech park office.",
-            "hindi_speech": "Aur sabse bada scam... You have Great Potential. Matlab, kaam double hoga par appraisal zero!",
-            "caption": "Great Potential = ZERO APPRAISAL",
-            "comedy_meta": {
-                "punchline_beat": 0.4,
-                "sfx": "record_scratch",
-                "laugh_intensity": "burst",
-                "zoom_style": "snap",
-                "highlight_word": "SCAM"
-            }
-        }, {
-            "visual_prompt": "3D render, Pixar-style, cinematic lighting, 9:16 aspect ratio, Indian Sameer, a 30-year-old product manager with thick-rimmed glasses and a receding hairline wearing a light blue formal shirt, slowly fading away as his laptop glows bright red in a modern Indian tech park office.",
-            "hindi_speech": "Corporate life mein logic mat dhoondho bhai, bas resignation draft karke rakho!",
-            "caption": "Resignation hi EKMAATRA hal hai",
-            "comedy_meta": {
-                "punchline_beat": 0.2,
-                "sfx": "game_over",
-                "laugh_intensity": "wheeze",
-                "zoom_style": "snap",
-                "highlight_word": "RESIGNATION"
-            }
-        }
-    ]
+    {
+      "visual_prompt": "Cinematic, a sleek laptop screen showing Midjourney generating a breathtaking lush landscape with vibrant colors.",
+      "hindi_speech": "Fact number Five. Midjourney ka naya version ab aapke dimaag ki har image ko reality mein badal sakta hai.",
+      "caption": "UNLIMITED creative ideas",
+      "tool_logo": "midjourney.com",
+      "tech_meta": {
+        "pause_after": 0.2,
+        "sfx": "whoosh",
+        "zoom_style": "pan_right",
+        "highlight_word": "UNLIMITED"
+      }
+    },
+    {
+      "visual_prompt": "A modern office setting where a person is using Gamma App to generate a beautiful presentation slide deck instantly.",
+      "hindi_speech": "Fact number Four. Gamma App sirf ek line likhne par poori presentation aur website seconds mein design kar deta hai.",
+      "caption": "Design in SECONDS",
+      "tool_logo": "gamma.app",
+      "tech_meta": {
+        "pause_after": 0.3,
+        "sfx": "whoosh",
+        "zoom_style": "smooth_in",
+        "highlight_word": "SECONDS"
+      }
+    },
+    {
+      "visual_prompt": "A high-tech workspace showing a coder using Cursor AI to write complex code with lightning-fast auto-completions.",
+      "hindi_speech": "Fact number Three. Cursor A I har kisi ko ek pro coder bana deta hai, chahe aapko coding aati ho ya nahi.",
+      "caption": "Code like a PRO",
+      "tool_logo": "cursor.com",
+      "tech_meta": {
+        "pause_after": 0.2,
+        "sfx": "whoosh",
+        "zoom_style": "pan_right",
+        "highlight_word": "PRO"
+      }
+    },
+    {
+      "visual_prompt": "A professional video editor using Captions A I to add dynamic glowing subtitles to a viral reel automatically.",
+      "hindi_speech": "Fact number Two. Captions A I aapki boring videos ko viral reels mein badalne ke liye automatic subtitles aur eye-contact feature deta hai.",
+      "caption": "Go VIRAL fast!",
+      "tool_logo": "captions.ai",
+      "tech_meta": {
+        "pause_after": 0.2,
+        "sfx": "whoosh",
+        "zoom_style": "smooth_in",
+        "highlight_word": "VIRAL"
+      }
+    },
+    {
+      "visual_prompt": "A cinematic shot of a person using Perplexity AI on a tablet to find complex answers with sourced citations glowing on screen.",
+      "hindi_speech": "Fact number One. Perplexity A I aapka personal researcher hai jo internet se sabse sahi aur fast answers dhoondta hai. Check the reel description for reference links.",
+      "caption": "Smarter RESEARCHING now!",
+      "tool_logo": "perplexity.ai",
+      "tech_meta": {
+        "pause_after": 0.1,
+        "sfx": "whoosh",
+        "zoom_style": "smooth_in",
+        "highlight_word": "RESEARCHING"
+      }
+    }
+  ]
 }
